@@ -67,5 +67,5 @@ svg{
 }
 p{
     color:rgb(23, 162, 23);
-    font-size: clamp(1.5rem, 2vw, 4rem); 
+    font-size: clamp(1vw, 2vw, 3vw); 
 }
